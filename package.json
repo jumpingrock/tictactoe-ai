@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jumpingrock/tictactoe-ai/issues"
   },
-  "homepage": "https://github.com/jumpingrock/tictactoe-ai#readme"
+  "homepage": "https://github.com/jumpingrock/tictactoe-ai#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
