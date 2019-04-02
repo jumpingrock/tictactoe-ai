@@ -1,0 +1,19 @@
+{
+  "name": "tictactoe-ai",
+  "version": "1.0.0",
+  "description": "To run the program open the index.html in a web browser and everything will be functional from that.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumpingrock/tictactoe-ai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumpingrock/tictactoe-ai/issues"
+  },
+  "homepage": "https://github.com/jumpingrock/tictactoe-ai#readme"
+}
